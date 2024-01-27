@@ -1,5 +1,5 @@
-# YOLOv8-Infernece-
-Contains file to check infernece on custom trained model.
+# YOLOv8-Inference-
+Contains file to check inference on custom trained model.
 
 
 Conda create -p venv python==3.9 -y
